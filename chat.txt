@@ -1,0 +1,58 @@
+18:04:45	 From Nathan Wilcox : I'm curious to see Daira sorting through hir desktop. :-D
+18:08:05	 From Anish Mohammed : yep
+18:11:44	 From Kobi Gurkan : pickles: https://www.youtube.com/watch?v=ZQkzTB8VDzs
+18:11:57	 From Alin Tomescu : Thanks!
+18:14:05	 From Mikerah  : https://github.com/zcash/zcash/issues/4093
+18:19:25	 From Kobi Gurkan : (T-2sqrt(p), t+2sqrt(p))
+18:19:30	 From Kobi Gurkan : Range size = 4sqrt(p)
+18:19:45	 From Kobi Gurkan : p-*
+18:19:51	 From Youssef El Housni : I think that sato-tate was proved, so It’s no longer a conjecture
+18:20:00	 From Alin Tomescu : Oh right, makes sense now.
+18:30:37	 From Youssef El Housni : That’s maybe not not worth interrupting Daira and everyone but I think « all endomorphisms of elliptic curves over finite fields are equivalent to scalar multiplication by an integer » is only true when only ordinary (the endo ring is an order in a quadratic imaginary field). For Supersingular elliptic curves it’s an order in a quaternion algebra.
+18:32:41	 From Nathan Wilcox : Anna: is it possible to save the text chat to live somewhere near the video recording? (It looks like saving text chat is distinct from video recording after a quick web search.)
+18:37:00	 From Alin Tomescu : On orders of elliptic curves over finite fields: https://scholar.rose-hulman.edu/cgi/viewcontent.cgi?article=1389&context=rhumj
+18:40:48	 From Youssef El Housni : Orders of the curve Daira talking about:
+18:40:54	 From Youssef El Housni : q+1-t (curve)
+18:41:02	 From Youssef El Housni : q+1+t (quadratic twist)
+18:41:34	 From Youssef El Housni : q+1-(3y-t)/2 or q+1-(-3y-t)/2 (cubic twist)
+18:42:01	 From Youssef El Housni : q+1-(3y+t)/2 or q+1-(-3y+t)/2 (sextic twist)
+18:42:57	 From Youssef El Housni : t is the Frobenius trace (Tp in Daira’s slides) and y the CM integer (V in Daira’s slide)
+18:52:18	 From A Rose : can someone add this paper here?
+18:52:54	 From Youssef El Housni : https://arxiv.org/abs/1803.02067
+18:53:11	 From Ivan Kamakin : Are p(x) and q(x) orders (when one picks some x), or is it just a coincidence in notation?
+18:53:27	 From Alin Tomescu : My understanding is that they are orders.
+18:54:00	 From Alin Tomescu : i.e., p(x) is the order of the base field \mathbb{F}_p over which the elliptic curve is defined
+18:54:06	 From Steven Smith : I’ve got to drop off to get ready for another call. Great presentation Daira!
+18:54:37	 From Alin Tomescu : And q(x) is the order of the elliptic curve group itself (or, equivalently, its “scalar field")
+18:55:49	 From Ivan Kamakin : Thanks, kinda started to suspect that after x=2^c being mentioned.
+18:56:14	 From Alin Tomescu : Right!
+18:56:27	 From Alin Tomescu : Have to run! Thank you for the presentation Daira! :)
+19:06:25	 From Adrian Guerrera : Live coding is captivating
+19:07:05	 From Youssef El Housni : We should do more live coding for zkstudy club !
+19:07:11	 From Youssef El Housni : This is great !
+19:07:15	 From A Rose : Sure! Maybe live stream :)
+19:07:19	 From Kobi Gurkan : Yes :D
+19:07:21	 From Anish Mohammed : Pari sessions :)
+19:07:41	 From gtank : Watching Daira do this kind of thing is one of the major perks of working on Zcash
+19:08:00	 From gtank : Check out the relevant GitHub threads too :)
+19:09:05	 From Olivier Bégassat : Yes ^^ will ask
+19:09:11	 From A Rose : cool
+19:11:41	 From Philipp Jovanovic : Unfortunately, I have to drop as well now
+19:12:09	 From Philipp Jovanovic : Thanks Daira for the talk and thanks Anna for organizing!
+19:12:47	 From Ivan Kamakin : A somewhat abstract question: although it is infeasible to find cycles among non-CM curves, is there any reason why we would want to (like some efficiency/soundness gains)?
+19:13:23	 From Youssef El Housni : the paper: https://arxiv.org/abs/0912.1831
+19:13:44	 From Youssef El Housni : By stange and silverman
+19:13:53	 From Anish Mohammed : Thanks Daira for talk and Anna for organising
+19:14:57	 From chelsea : i would be interested in a bonus session
+19:15:40	 From Youssef El Housni : This was an amazing presentation Daira !!
+19:15:42	 From sky hard : same
+19:15:55	 From Youssef El Housni : Looking forward to the bonus session
+19:16:14	 From chelsea : i had a question about j=0
+19:16:26	 From sky hard : thanxalot daira
+19:16:26	 From Adrian Guerrera : Did you have a repo for the sage examples?
+19:17:07	 From Adrian Guerrera : https://github.com/daira/curvesearch ?
+19:18:37	 From Kobi Gurkan : It was awesome :)
+19:21:04	 From sean : thanks daira :)
+19:22:41	 From Mikerah  : thanks
+19:23:03	 From Olivier Bégassat : Tahnk you!!
+
