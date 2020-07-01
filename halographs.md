@@ -88,14 +88,14 @@ We can check in the circuit that $x_1^3 \neq x_2^3$ and $x_1^3 + b \neq 0$ and $
 
 ----
 
-Lemma: $\left(y_1 \neq \pm y_2 \text{ and } y_1 \neq 0 \text{ and } y_2 \neq 0 \text{ and } y_1 + y_2 \neq 0\right)$ implies that $\left\{ a_1 y'_1 + a_2 y'_2 : a_1, a_2 \in \{-1,+1\} \right\}$ are all distinct.
+Lemma: $\left(y_1 \neq \pm y_2 \text{ and } y_1 \neq 0 \text{ and } y_2 \neq 0 \text{ and } y_1 + y_2 \neq 0\right)$ implies that $\left\{ a_1 y'_1 + a_2 y'_2 : a_1, a_2 \in \{-1,+1\} \right\}$ are all distinct in $\mathbb{F}_p$.
 
 Proof. Add $y'_1 + y'_2$ to each element; since this is a bijection, the statement is equivalent to:
-"$\left(y_1 \neq \pm y_2 \text{ and } y_1 \neq 0 \text{ and } y_2 \neq 0 \text{ and } y_1 + y_2 \neq 0\right)$ implies that $\{ 0, 2y'_1, 2y'_2, 2(y'_1 + y'_2) \}$ are all distinct.", which is clearly true. $\square$
+"$\left(y_1 \neq \pm y_2 \text{ and } y_1 \neq 0 \text{ and } y_2 \neq 0 \text{ and } y_1 + y_2 \neq 0\right)$ implies that $\{ 0, 2y'_1, 2y'_2, 2(y'_1 + y'_2) \}$ are all distinct.", which is clearly true (because multiplication by $2$ in $\mathbb{F}_p$ is an injection). $\square$
 
 ----
 
-Theorem: Except with negligible probability over random choices of $P_1$ and $P_2$, $x_1^3 \neq x_2^3$ and $x_1^3 + b \neq 0$ and $x_2^3 + b \neq 0$ and $y_1 + y_2 \neq 0$, and in that case $(x_1, x_2, y_1 + y_2)$ determines $P_1$ and $P_2$.
+Theorem: Let $E / \mathbb{F}_p: y^2 = x^3 + b$ be an elliptic curve with a large number of points $\#E$. Except with negligible probability over random choices of $P_1$ and $P_2$, $x_1^3 \neq x_2^3$ and $x_1^3 + b \neq 0$ and $x_2^3 + b \neq 0$ and $y_1 + y_2 \neq 0$, and in that case $(x_1, x_2, y_1 + y_2)$ determines $P_1$ and $P_2$.
 
 Proof (sketch). For a given $P_1$, there can be at most $6$ points $P_2$ on the curve that give the same $x^3$, and at most $3$ points $P_2$ for which $y_1 + y_2 = 0$. There are also at most $3$ points on the curve with $y = 0$. Therefore, if $P_1$ and $P_2$ are random, we expect that $\left(x_1^3 \neq x_2^3 \text{ and } x_1^3 + b \neq 0 \text{ and } x_2^3 + b \neq 0 \text{ and } y_1 + y_2 \neq 0\right)$ with probability at least $1 - \frac{6 + 3 + 2 \cdot 3}{\#E} = 1 - \frac{15}{\#E}$. In that case, $y_1^2 \neq y_2^2$, and so $y_1 \neq \pm y_2$. Also $y_1 \neq 0$ and $y_2 \neq 0$.
 
