@@ -2,7 +2,7 @@
 
 These are the accompanying notes for my ZK Study Club talks on 25th June and 2nd July 2020.
 
-We use the notation $E_{p \rightarrow q}$ for an elliptic curve over $\mathbb{F}_p$ of (assumed prime) order $q$.
+We use the notation $E_{p \rightarrow q}$ for an elliptic curve over $\mathbb{F}_p$ with large prime-order subgroup of order $q$. For curves that form cycles, $q$ is the order of the curve (i.e. it has cofactor $1$).
 
 ## Proof that CM curves form cycles
 
