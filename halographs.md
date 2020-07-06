@@ -1,6 +1,6 @@
 # Halo Optimizations and Constructing Graphs of Elliptic Curves
 
-These are the accompanying notes for my ZK Study Club talk on 25th June 2020.
+These are the accompanying notes for my ZK Study Club talks on 25th June and 2nd July 2020.
 
 We use the notation $E_{p \rightarrow q}$ for an elliptic curve over $\mathbb{F}_p$ of (assumed prime) order $q$.
 
