@@ -18,8 +18,8 @@
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="final-accumulation.svg"
    inkscape:export-filename="/home/daira/research/halographs/final-accumulation.png"
-   inkscape:export-xdpi="150.019"
-   inkscape:export-ydpi="150.019">
+   inkscape:export-xdpi="150"
+   inkscape:export-ydpi="150">
   <defs
      id="defs2">
     <marker
@@ -781,7 +781,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="398.14815"
+     inkscape:cx="646.18518"
      inkscape:cy="543.5933"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -790,9 +790,9 @@
      inkscape:guide-bbox="true"
      inkscape:snap-page="true"
      inkscape:window-width="2904"
-     inkscape:window-height="1776"
-     inkscape:window-x="867"
-     inkscape:window-y="68"
+     inkscape:window-height="1686"
+     inkscape:window-x="247"
+     inkscape:window-y="40"
      inkscape:window-maximized="0"
      inkscape:snap-global="true" />
   <metadata
@@ -831,14 +831,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       x="109.38063"
-       y="123.76797"
+       x="109.02113"
+       y="123.44821"
        id="text14516-3"><tspan
          sodipodi:role="line"
          id="tspan14514-1"
-         x="109.38063"
-         y="123.76797"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">deferred</tspan></text>
+         x="109.02113"
+         y="123.44821"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">multiopening</tspan></text>
     <rect
        style="opacity:1;vector-effect:none;fill:#fdffa0;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect1099-7"
@@ -850,25 +850,25 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       x="109.38063"
-       y="230.14017"
+       x="109.02113"
+       y="228.37126"
        id="text14516-3-4-2"><tspan
          sodipodi:role="line"
          id="tspan14514-9-4-5"
-         x="109.38063"
-         y="230.14017"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">deferred</tspan></text>
+         x="109.02113"
+         y="228.37126"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">multiopening</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       x="219.54362"
-       y="170.34248"
+       x="205.76598"
+       y="169.67329"
        id="text14516-3-4"><tspan
          sodipodi:role="line"
          id="tspan14514-9-4"
-         x="219.54362"
-         y="170.34248"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">deferred</tspan></text>
+         x="205.76598"
+         y="169.67329"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">multiopening</tspan></text>
     <ellipse
        style="opacity:1;vector-effect:none;fill:#a8ffa8;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path11324-5-6-9"
@@ -963,14 +963,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       x="219.54362"
-       y="255.69974"
+       x="205.76598"
+       y="254.52895"
        id="text14516-3-4-6"><tspan
          sodipodi:role="line"
          id="tspan14514-9-4-2"
-         x="219.54362"
-         y="255.69974"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">deferred</tspan></text>
+         x="205.76598"
+         y="254.52895"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">multiopening</tspan></text>
     <path
        style="fill:none;stroke:#d27f01;stroke-width:0.51009065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-9-0-9)"
        d="m 249.2211,234.91121 v 40.35683"
@@ -1407,5 +1407,125 @@
        id="path815-8-8"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
+    <g
+       id="g4502"
+       transform="translate(8.8105266,0.0113215)">
+      <text
+         id="text1193"
+         y="123.17681"
+         x="22.26614"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:Cabin;-inkscape-font-specification:Cabin;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:8.46666908px;stroke-width:0.26458332"
+           y="123.17681"
+           x="22.26614"
+           id="tspan1191"
+           sodipodi:role="line"><tspan
+   id="tspan4488"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666908px;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math">G </tspan>, <tspan
+   id="tspan4490"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666908px;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math">u</tspan></tspan></text>
+      <text
+         id="text4494"
+         y="124.64285"
+         x="27.781252"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:Cabin;-inkscape-font-specification:Cabin;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722385px;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math;stroke-width:0.26458332"
+           y="124.64285"
+           x="27.781252"
+           id="tspan4492"
+           sodipodi:role="line">p      p,1..k</tspan></text>
+    </g>
+    <g
+       id="g4935"
+       transform="translate(-0.30276853,-0.55564282)">
+      <text
+         id="text1193-2"
+         y="169.96886"
+         x="292.22488"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:Cabin;-inkscape-font-specification:Cabin;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:8.46666908px;stroke-width:0.26458332"
+           y="169.96886"
+           x="292.22488"
+           id="tspan1191-4"
+           sodipodi:role="line"><tspan
+   id="tspan4488-7"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666908px;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math">G </tspan>, <tspan
+   id="tspan4490-9"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666908px;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math">u</tspan></tspan></text>
+      <text
+         id="text4494-3"
+         y="171.43489"
+         x="297.73999"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:Cabin;-inkscape-font-specification:Cabin;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722385px;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math;stroke-width:0.26458332"
+           y="171.43489"
+           x="297.73999"
+           id="tspan4492-9"
+           sodipodi:role="line">q      q,1..k</tspan></text>
+    </g>
+    <g
+       id="g4582"
+       transform="translate(0.03334112,11.185907)">
+      <text
+         id="text1193-8"
+         y="217.02689"
+         x="31.043325"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:Cabin;-inkscape-font-specification:Cabin;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:8.46666908px;stroke-width:0.26458332"
+           y="217.02689"
+           x="31.043325"
+           id="tspan1191-3"
+           sodipodi:role="line"><tspan
+   id="tspan4488-0"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666908px;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math">G′</tspan>, <tspan
+   id="tspan4490-1"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666908px;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math">u′</tspan></tspan></text>
+      <text
+         id="text4494-7"
+         y="218.49294"
+         x="36.558437"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:Cabin;-inkscape-font-specification:Cabin;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722385px;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math;stroke-width:0.26458332"
+           y="218.49294"
+           x="36.558437"
+           id="tspan4492-8"
+           sodipodi:role="line">p      p,1..k</tspan></text>
+    </g>
+    <g
+       id="g4943"
+       transform="translate(-0.30276853,-0.55564282)">
+      <text
+         id="text1193-8-1"
+         y="254.92612"
+         x="292.22488"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:Cabin;-inkscape-font-specification:Cabin;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:8.46666908px;stroke-width:0.26458332"
+           y="254.92612"
+           x="292.22488"
+           id="tspan1191-3-5"
+           sodipodi:role="line"><tspan
+   id="tspan4488-0-4"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666908px;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math">G′</tspan>, <tspan
+   id="tspan4490-1-9"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666908px;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math">u′</tspan></tspan></text>
+      <text
+         id="text4494-7-2"
+         y="256.39218"
+         x="297.73999"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:Cabin;-inkscape-font-specification:Cabin;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722385px;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math;stroke-width:0.26458332"
+           y="256.39218"
+           x="297.73999"
+           id="tspan4492-8-5"
+           sodipodi:role="line">q      q,1..k</tspan></text>
+    </g>
   </g>
 </svg>
