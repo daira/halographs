@@ -1,6 +1,6 @@
 # Halo Optimizations and Constructing Graphs of Elliptic Curves
 
-These are the accompanying notes for my ZK Study Club talks on 25th June and 2nd July 2020.
+These are the accompanying notes for my ZK Study Club talks on [25th June](https://www.youtube.com/watch?v=q7bAYgxkHUE) and [2nd July](https://www.youtube.com/watch?v=IQVGIqcdxL4) 2020. The slides are [here](https://github.com/daira/halographs/raw/master/halographs.pdf).
 
 We use the notation $E_{p \rightarrow q}$ for an elliptic curve over $\mathbb{F}_p$ with large prime-order subgroup of order $q$. For curves that form cycles, $q$ is the order of the curve (i.e. it has cofactor $1$).
 
